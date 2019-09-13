@@ -8,10 +8,10 @@ PSD programs
 	Скетч/Цеплин
 	https://pixlr.com/editor/
 	
-WS CODE plugins
+vS CODE plugins
 	Pug
 	Pug (Jade) snippets
 	language-stylus
-
-
+	Trailing Spaces - red end spaces
+	indent-rainbow
 	CSS Peek - search style in html class
