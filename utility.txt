@@ -9,6 +9,7 @@ PSD programs
 	https://pixlr.com/editor/
 	
 vS CODE plugins
+	Mithril Emmet
 	Pug
 	Pug (Jade) snippets
 	language-stylus
