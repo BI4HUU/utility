@@ -9,4 +9,9 @@ PSD programs
 	https://pixlr.com/editor/
 	
 WS CODE plugins
-	
+	Pug
+	Pug (Jade) snippets
+	language-stylus
+
+
+	CSS Peek - search style in html class
