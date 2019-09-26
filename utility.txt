@@ -16,3 +16,7 @@ vS CODE plugins
 	Trailing Spaces - red end spaces
 	indent-rainbow
 	CSS Peek - search style in html class
+Sublime Text3 plugins
+	Emmet
+	BracketHighlighter
+	AutoFileName
